@@ -72,5 +72,5 @@ print("\nFeature Scaling Completed Successfully.")
 
 # RESULT:
 
-Successfully read the given data and perform Feature Scaling and Feature Selection process and save the
+Successfully read the given data and performed Feature Scaling and Feature Selection process and saved`` the
 data to a file.
